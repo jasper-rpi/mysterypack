@@ -1,0 +1,12 @@
+﻿{
+	"ItemName": {
+		"CopperShortsword": "Overpowered Sword",
+		"ToiletCactus": "Nightmare Toilet",
+		"Wood": "Lumber",
+
+	},
+	"ItemTooltip": {
+		"ToiletCactus": "'This is going to be a huge mistake.'",
+		"Gel": "'Do not consume while on fire.'",
+	}
+}
