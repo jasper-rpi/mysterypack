@@ -1,9 +1,9 @@
 {
     "Name": "mysterypack",
-    "Author": "some dude",
+    "Author": "Mysteryboi21 and Hallisober",
     "Description": "mmm, jes, brief description of pack",
     "Version": {
         "major": 1,
-        "minor": 0
+        "minor": 5
     }
 }
