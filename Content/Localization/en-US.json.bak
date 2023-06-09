@@ -1,12 +1,13 @@
 ﻿{
 	"ItemName": {
-		"CopperShortsword": "Overpowered Sword",
-		"ToiletCactus": "Nightmare Toilet",
-		"Wood": "Lumber",
+		"RazorbladeTyphoon": "Razorblade Tycoon",
+		"ToiletCactus": "L toilet",
+		"Wood": "puu",
 
 	},
 	"ItemTooltip": {
-		"ToiletCactus": "'This is going to be a huge mistake.'",
-		"Gel": "'Do not consume while on fire.'",
+		"RazorbladeTyphoon": "The best Road Blocks Tycoon",
+		"ToiletCactus": "käi perse",
+		"Gel": "parim item ever",
 	}
 }
