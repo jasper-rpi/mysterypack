@@ -16,4 +16,12 @@
 		"EmpressButterfly": "Rythmic Symbols",
 		"HallowBoss": "Emperor of Rythm",
 	{
+	"Achievements": {
+		"DEFEAT_EMPRESS_OF_LIGHT_Name": "Rythm Flayer",
+		"DEFEAT_EMPRESS_OF_LIGHT_Description": "Defeat the Empress of Rythm, responsible for kinda good music.",
+	}
+	"Bestiary_FlavorText": {
+		"npc_EmpressButterfly": "Should one of these luminescent bunches of symbols perish in the chaos of night or day, a sleeping tyrant is rumored to violently awaken.",
+		"npc_HallowBoss": "Beneath the Hallow's cleansing blanket lies a vengeful rythm god bent on scrubbing the land of any and all impurity.",
+	}
 }

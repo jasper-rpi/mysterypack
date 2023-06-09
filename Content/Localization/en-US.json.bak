@@ -3,11 +3,17 @@
 		"RazorbladeTyphoon": "Razorblade Tycoon",
 		"ToiletCactus": "L toilet",
 		"Wood": "puu",
+		"EmpressButterfly": "Rythmic Symbols",
 
 	},
 	"ItemTooltip": {
 		"RazorbladeTyphoon": "The best Road Blocks Tycoon",
 		"ToiletCactus": "käi perse",
 		"Gel": "parim item ever",
+		"EmpressButterfly": "If you kill this, it will happen",
 	}
+	"NPCName": {
+		"EmpressButterfly": "Rythmic Symbols",
+		"HallowBoss": "Emperor of Rythm",
+	{
 }
