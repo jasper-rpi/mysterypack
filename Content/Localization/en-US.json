@@ -4,13 +4,14 @@
 		"ToiletCactus": "L toilet",
 		"Wood": "puu",
 		"EmpressButterfly": "Rythmic Symbols",
-
+		
 	},
 	"ItemTooltip": {
 		"RazorbladeTyphoon": "The best Road Blocks Tycoon",
 		"ToiletCactus": "käi perse",
 		"Gel": "parim item ever",
 		"EmpressButterfly": "If you kill this, it will happen",
+		"Shackle": "5% increased damage"
 	},
 	"NPCName": {
 		"EmpressButterfly": "Rythmic Symbols",
